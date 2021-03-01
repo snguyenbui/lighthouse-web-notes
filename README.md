@@ -11,6 +11,10 @@ This repository contains all of the notes taken by [Sunny](https://github.com/sn
 
 ## Markdown notes
 
+[This is quick cheatsheet for future reference on Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+
+Below are my own notes
+
 # This is an H1 header (largest)
 ###### This is an H6 header (smallest)
 
